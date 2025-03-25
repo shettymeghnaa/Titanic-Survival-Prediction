@@ -26,12 +26,9 @@ The dataset used for this project contains information about Titanic passengers,
 ## Project Structure
 📂 Titanic-Survival-Prediction │── 📄 Titanic Survival Prediction.ipynb # Jupyter Notebook with code │── 📄 resultfile.csv # Output predictions │── 📄 README.md # Project documentation │── 📄 requirements.txt # Dependencies
 
-bash
-Copy
-Edit
-
 ## How to Run
 ### 1. Clone the Repository
+```sh
 git clone https://github.com/your-username/Titanic-Survival-Prediction.git
 cd Titanic-Survival-Prediction
 2. Install Dependencies
@@ -94,3 +91,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 License
 This project is open-source and available under the MIT License.
+

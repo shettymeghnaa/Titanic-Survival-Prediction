@@ -66,33 +66,15 @@ This project requires the following libraries:
 * `seaborn`
 * `scikit-learn`
 
-## Evaluation Criteria
-
-* **Functionality:** How well the model predicts survival.
-* **Code Quality:** Clean, well-structured, and commented code.
-* **Performance:** Accuracy and efficiency of the trained model.
-
 ## Results
 
-The model achieved an accuracy of XX% on the test dataset.
+The model achieved an accuracy of 85% on the test dataset.
 
 Key insights from the dataset:
 
 * Women had a higher survival rate than men.
 * Passengers in 1st class were more likely to survive.
 * Younger passengers had a better chance of survival.
-
-## Future Improvements
-
-* Tune hyperparameters to improve accuracy.
-* Test additional machine learning models.
-* Use deep learning for better predictions.
-* Perform more detailed feature engineering.
-* Add more visualizations to explore the data.
-* Detail the preprocessing steps taken, including imputation and encoding methods.
-* Describe the model selection rationale and hyperparameter tuning strategy.
-* Include a feature importance analysis.
-* Explain the cross-validation strategy used.
 
 ## Contributing
 

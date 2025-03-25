@@ -30,7 +30,7 @@ The dataset used for this project contains information about Titanic passengers,
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/shettymeghnaa/Titanic-Survival-Prediction](https://github.com/shettymeghnaa/Titanic-Survival-Prediction)
+    git clone https://github.com/shettymeghnaa/Titanic-Survival-Prediction
     cd Titanic-Survival-Prediction
     ```
 
